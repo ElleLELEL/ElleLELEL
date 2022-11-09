@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am self taught discord bot developer, I use Javascript as the main language,<br>that i use on my works.
 
+[![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)(https://top.gg/bot/1027886191791579176)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://eiomibot.xyz/support) 
