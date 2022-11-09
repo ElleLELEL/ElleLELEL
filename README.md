@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am self taught discord bot developer, I use Javascript as the main language,<br>that i use on my works.
 
-[![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)(https://top.gg/bot/1027886191791579176)
+[![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176)
 
 
 ## 🌐 Socials:
