@@ -3,11 +3,6 @@ I am self taught discord bot developer, I use Javascript as the main language,<b
 
 [![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176)
 
-{literal}
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/davidjbradshaw/iframe-resizer@master/js/iframeResizer.min.js"></script>
-{/literal}
-<iframe class="htframe" src="https://wl.hetrixtools.com/report/uptime/381e7c8f6cd040764d97a52227b61384/" width="100%" scrolling="no" style="border:none;" sandbox="allow-scripts allow-same-origin allow-popups" onload="iFrameResize([{log:false}],'.htframe')"></iframe>
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://eiomibot.xyz/support) 
 
