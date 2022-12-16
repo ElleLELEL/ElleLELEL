@@ -3,7 +3,7 @@ I am self taught discord bot developer, I use Javascript as the main language,<b
 
 [![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176) ![](https://dcbadge.vercel.app/api/shield/1027886191791579176?bot=true&?style=flat&theme=clean-inverted&compact=true)
 ![](https://dcbadge.vercel.app/api/shield/1027886191791579176?bot=true&?style=flat&theme=clean-inverted&compact=true)
-![](https://dcbadge.vercel.app/api/shield/1027886191791579176?bot=true)
+![](https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true)
 
 
 
