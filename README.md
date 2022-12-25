@@ -2,8 +2,11 @@
 I am self taught discord bot developer, I use Javascript as the main language,<br>that i use on my works.
 
 [![Discord Bots](https://top.gg/api/widget/upvotes/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176)
-![npm](https://img.shields.io/npm/dt/mayu-js?style=plastic)
+[![Discord Bots](https://top.gg/api/widget/status/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176)
+[![Discord Bots](https://top.gg/api/widget/servers/1027886191791579176.svg)](https://top.gg/bot/1027886191791579176)
 
+
+![npm](https://img.shields.io/npm/dt/mayu-js?style=plastic)
 
 
 ## 🌐 Socials:
